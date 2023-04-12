@@ -13,7 +13,7 @@ _website design project / 404 error page_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: 
+Site published at: https://tadasrup.github.io/2-Intro-Stickman/
 
 Design: [Stickman](https://mir-s3-cdn-cf.behance.net/project_modules/fs/1cec7d10286437.560e2710efd2e.jpg)
 
@@ -45,7 +45,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/TadasRup/2-Intro-Stickman.git
    ```
 2. Install NPM packages
    ```sh
